@@ -47,7 +47,7 @@ a, a:hover, a:visited, a:link, a:active {
 }
 
 .app {
-  width: 540px;
+  width: 375px;
   height: 600px; 
   padding-top: 10px;
   background: #ccc;
@@ -80,11 +80,11 @@ header{
   border: solid 1px #cf923f;
   background: #cf720f;
   text-align: center;
-  padding: 4px 20px;
+  padding: 4px 6px;
   margin-right: 8px;
-  width: 120px;
+  width: 100px;
   height: 40px;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 40px;  
 }
 
