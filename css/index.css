@@ -48,8 +48,8 @@ a, a:hover, a:visited, a:link, a:active {
 
 .app {
   width: 540px;
-  height: 600px;
-  margin-top: 10px; 
+  height: 600px; 
+  padding-top: 10px;
   background: #ccc;
 }
 
@@ -80,9 +80,9 @@ header{
   border: solid 1px #cf923f;
   background: #cf720f;
   text-align: center;
-  padding: 5px 20px;
-  margin-right: 10px;
-  width: 100px;
+  padding: 4px 20px;
+  margin-right: 8px;
+  width: 120px;
   height: 40px;
   font-size: 20px;
   line-height: 40px;  
